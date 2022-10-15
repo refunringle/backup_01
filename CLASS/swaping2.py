@@ -1,0 +1,7 @@
+a=int(input("enter the a:"))
+b=int(input("enter the b:"))
+a=(a+b)
+b=(a-b)
+a=(a-b)
+print("a:",a)
+print("b:",b)
